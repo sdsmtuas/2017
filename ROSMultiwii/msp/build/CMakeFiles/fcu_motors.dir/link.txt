@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/fcu_motors.dir/examples/fcu_motor_test.cpp.o  -o devel/lib/msp/fcu_motors -rdynamic devel/lib/libmsp_fcu.so devel/lib/libmsp.so -lboost_system -lpthread -Wl,-rpath,/home/sam/msp/build/devel/lib 

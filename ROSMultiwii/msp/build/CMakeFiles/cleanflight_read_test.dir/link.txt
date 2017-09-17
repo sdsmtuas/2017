@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/cleanflight_read_test.dir/examples/cleanflight_read_test.cpp.o  -o devel/lib/msp/cleanflight_read_test -rdynamic devel/lib/libmsp.so devel/lib/libmsp_msg_print.so -lboost_system -lpthread -Wl,-rpath,/home/sam/msp/build/devel/lib 

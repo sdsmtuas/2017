@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libmsp.so -o devel/lib/libmsp.so CMakeFiles/msp.dir/src/SerialPort.cpp.o CMakeFiles/msp.dir/src/MSP.cpp.o CMakeFiles/msp.dir/src/deserialise.cpp.o -lboost_system -lpthread 

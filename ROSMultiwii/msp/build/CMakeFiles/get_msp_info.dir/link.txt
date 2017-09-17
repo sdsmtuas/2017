@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/get_msp_info.dir/examples/msp_connection_test.cpp.o  -o devel/lib/msp/get_msp_info -rdynamic devel/lib/libmsp.so -lboost_system -lpthread -Wl,-rpath,/home/sam/msp/build/devel/lib 

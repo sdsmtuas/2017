@@ -1,0 +1,8 @@
+prefix=/home/sam/msp/build/devel
+
+Name: msp
+Description: Description of msp
+Version: 0.0.0
+Cflags: -I/home/sam/msp/inc
+Libs: -L/home/sam/msp/build/devel/lib -lmsp -lmsp_fcu -lmsp_msg_print
+Requires: 
